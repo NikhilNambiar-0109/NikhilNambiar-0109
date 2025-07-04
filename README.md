@@ -2,8 +2,9 @@
 <h3 align="center">A Passionate Developer | AI/ML Enthusiast | Cybersecurity and web dev Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76900&center=true&vCenter=true&lines=Full-Stack+Developer;Cybersecurity+and+AI+Explorer;Flutter+%7C+React+%7C+Node.js;Learning+DevOps+%26+Cloud+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76900&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Explore+my+projects+and+skills." alt="Typing SVG" />
 </p>
+
 
 ---
 
