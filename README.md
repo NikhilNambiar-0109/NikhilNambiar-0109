@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Nambiar</h1>
-<h3 align="center">A Passionate Developer | AI/ML Enthusiast | Cybersecurity Explorer</h3>
+<h3 align="center">A Passionate Developer | AI/ML Enthusiast | Cybersecurity and web dev Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76900&center=true&vCenter=true&lines=Full-Stack+Developer;Cybersecurity+and+AI+Explorer;Flutter+%7C+React+%7C+Node.js;Learning+DevOps+%26+Cloud+Deployment" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 - 🌱 I’m currently working on: **GuideLink** – A mobile/web app that connects travelers with local tour guides  
 - 💡 Skilled in: **Flutter**, **React.js**, **Express.js**, **MySQL**, **MongoDB**, **Python**, **Java**  
 - 🤖 Experimented with AI/ML models: Fake Job Detection, Animal Disease CNN, Weather Prediction  
-- 🔐 Exploring: **Web Security**, **OWASP ZAP**, **Metasploit**, and CI/CD Security Pipelines  
+- 🔐 Preparation : Learning java from scratch , along with DSA   
 - 🧠 Currently learning: **Microservices Architecture**, **AWS (EC2, RDS, S3, Elastic Beanstalk)**, and **DevOps tools**
 
 ---
