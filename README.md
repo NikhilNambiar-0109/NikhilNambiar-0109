@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working on: **GuideLink** – A mobile/web app that connects travelers with local tour guides  
 - 💡 Skilled in: **Flutter**, **React.js**, **Express.js**, **MySQL**, **MongoDB**, **Python**, **Java**  
-- 🤖 Experimented with AI/ML models: Fake Job Detection, Animal Disease CNN, Weather Prediction  
+- 🤖 Experimented with AI/ML models:  Animal Disease CNN, Weather Prediction  
 - 🔐 Preparation : Learning java from scratch , along with DSA   
 - 🧠 Currently learning: **Microservices Architecture**, **AWS (EC2, RDS, S3, Elastic Beanstalk)**, and **DevOps tools**
 
